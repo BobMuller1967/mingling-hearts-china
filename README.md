@@ -17,3 +17,4 @@ npm run dev
 4. Point your domain `minglingheartschina.com` to Vercel (add the domain in Vercel → follow DNS instructions).
 
 _Generated on 2025-10-12._
+
