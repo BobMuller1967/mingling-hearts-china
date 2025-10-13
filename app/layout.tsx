@@ -36,3 +36,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
+<nav className="hidden md:flex items-center gap-8 text-sm font-medium">
+  <a href="#how" className="hover:text-rose-700">How it works</a>
+  <a href="/members" className="hover:text-rose-700">Members</a>
+  <a href="#apply" className="rounded-full bg-rose-600 px-4 py-2 text-white hover:bg-rose-700 shadow">Apply</a>
+</nav>
